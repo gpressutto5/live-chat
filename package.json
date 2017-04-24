@@ -1,10 +1,12 @@
 {
-  "name": "chat-socketio",
+  "name": "live-chat",
   "version": "0.0.1",
   "description": "Learning socket.io",
   "scripts": {
   	"server": "node index.js"
   },
+  "author": "Guilherme Pressutto <gpressutto5@gmail.com> (https://github.com/gpressutto5)",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.15.2",
     "socket.io": "^1.7.3"
