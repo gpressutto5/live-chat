@@ -2,6 +2,9 @@
   "name": "chat-socketio",
   "version": "0.0.1",
   "description": "Learning socket.io",
+  "scripts": {
+  	"server": "node index.js"
+  },
   "dependencies": {
     "express": "^4.15.2",
     "socket.io": "^1.7.3"
